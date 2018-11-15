@@ -15,7 +15,7 @@ You will you need to have:
 
 2. **Setup yarn**  
   Run these commands in your terminal / shell  
-  # Go to your theme directory located in 'chipsite/site/web/app/themes/ccparts-theme'  
+  # Go to your theme directory located in 'chipsite/site/web/app/themes/chipsite-theme'  
   # Run the following commands  
   ```composer install```  
   ```yarn```  
