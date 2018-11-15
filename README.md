@@ -15,7 +15,7 @@ You will you need to have:
 
 2. **Setup yarn**  
   Run these commands in your terminal / shell  
-  # Go to your theme directory located in 'c-c-parts-wp/site/web/app/themes/ccparts-theme'  
+  # Go to your theme directory located in 'chipsite/site/web/app/themes/ccparts-theme'  
   # Run the following commands  
   ```composer install```  
   ```yarn```  
@@ -24,14 +24,14 @@ You will you need to have:
 
 3. **Start the virtual server** *(be patient, but watch the console––it may prompt for your system password and you may have to run it twice on initial setup)*  
   Run these commands in your terminal / shell
-  # Go to your trellis directory located in 'c-c-parts-wp/trellis'  
+  # Go to your trellis directory located in 'chipsite/trellis'  
   ```vagrant up```
 
   _Note: to shut down the server:_ `vagrant halt`  
   _Note: to suspend the server:_ `vagrant suspend`  
   _Note: to remove the server:_ `vagrant destroy`  
 
-4. **Test the install** at [ccparts.test](http://ccparts.test/)
+4. **Test the install** at [chipsite.test](http://chipsite.test/)
 
 ## Remote server setup (staging/production)
 
