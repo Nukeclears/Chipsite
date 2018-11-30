@@ -3,11 +3,11 @@
 # Define accompanying passwords/secrets in group_vars/development/vault.yml
 
 wordpress_sites:
-  ccparts.nl:
+  chipsite.nl:
     site_hosts:
-      - canonical: ccparts.test
+      - canonical: chipsite.test
         redirects:
-          - www.ccparts.test
+          - www.chipsite.test
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
     admin_email: info@simdo.nl
     multisite:
