@@ -8,7 +8,7 @@
       "./scripts/customizer.js"
     ]
   },
-  "publicPath": "/app/themes/chipsite-theme",
+  "publicPath": "/app/themes/Chiptheme",
   "devUrl": "http://chipsite.test",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",

@@ -1,0 +1,11 @@
+.jumbotron-chip {
+  height: 100%;
+  width: 100%;
+  background-color: hotpink;
+
+  img {
+    object-fit: cover;
+    width: 100%;
+    max-height: 30em;
+  }
+}

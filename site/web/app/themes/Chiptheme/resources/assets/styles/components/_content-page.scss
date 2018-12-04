@@ -1,0 +1,21 @@
+.main_content {
+  background-color: $secondary;
+  width: 100%;
+
+  .content_container {
+    height: 100%;
+    padding: 4% 10%;
+
+    .left_block {
+      background-color: blue;
+      height: 23em;
+      width: 47%;
+    }
+
+    .right_block {
+      background-color: red;
+      height: 20em;
+      width: 53%;
+    }
+  }
+}

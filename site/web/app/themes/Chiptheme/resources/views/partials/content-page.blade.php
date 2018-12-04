@@ -1,2 +1,10 @@
-@php the_content() @endphp
-{!! wp_link_pages(['echo' => 0, 'before' => '<nav class="page-nav"><p>' . __('Pages:', 'sage'), 'after' => '</p></nav>']) !!}
+<div class="main_content">
+    <div class="content_container d-flex flex-row">
+        <div class="left_block">
+            
+        </div>
+        <div class="right_block">
+
+        </div>
+    </div>
+</div>
