@@ -1,5 +1,8 @@
-<footer class="content-info">
-  <div class="container">
-    @php dynamic_sidebar('sidebar-footer') @endphp
+<div class="footer_main d-flex justify-content-between">
+  <div class="left_footer d-flex justify-content-center">
+    <h3>Made by</h3>
+    <img src="@asset('images/cup.svg')"/>
   </div>
-</footer>
+  <div class="right_footer">
+  </div>
+</div>
