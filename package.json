@@ -1,0 +1,33 @@
+{
+  "name": "portfolio-cli",
+  "version": "1.0.0",
+  "description": "cli testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nukeclears/Portfolio-CLI.git"
+  },
+  "author": "Thomas van Deursen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nukeclears/Portfolio-CLI/issues"
+  },
+  "homepage": "https://github.com/nukeclears/Portfolio-CLI#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.7",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "postcss": "^8.3.6",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.2",
+    "postcss-nesting": "^8.0.1",
+    "tailwindcss": "^2.2.7"
+  }
+}
