@@ -10,7 +10,8 @@ module.exports = {
     theme: {
         extend: {
             backgroundImage: (theme) => ({
-                'header-background': "url('../images/Block_image.png')",
+                'header-background': "url('../images/Jumbotron.png')",
+                'hiding-divider': "url('../images/Hiding.png')",
             }),
             colors: {
                 gray: {
